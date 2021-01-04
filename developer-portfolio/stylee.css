@@ -1,0 +1,36 @@
+body{font-family: 'Cabin', sans-serif;
+}
+
+.name{color: chocolate;}
+.fastdiv{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.fastdiv img{
+    width: 60%;}
+
+    .button{
+        text-decoration: none;
+        background-color: darkorange;
+        padding: 15px 15px;
+        border-radius: 10px;
+        color: cornsilk;
+        font-weight: 700;
+    }
+    .topgroundimg{background-image: url(top-banner.png);
+    background-repeat: no-repeat;}
+    
+    section{height: 500px;}
+.dreamground{background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+background-position: right;}
+
+.singleexperience{box-shadow: rgb(0, 0, 0) 10px 10px 40px;
+border-radius: 10px;
+height: 80%;}
+.experience{background-image: url(exp-bg.png);
+background-repeat: no-repeat;
+background-position: left;}
